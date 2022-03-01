@@ -1,1 +1,1 @@
-print("박혜린")
+def show_reverse
