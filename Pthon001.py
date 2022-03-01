@@ -1,1 +1,1 @@
-def show_reverse
+print("혜륀씌");
