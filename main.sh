@@ -1,1 +1,1 @@
-python3 Pthon001.py
+python3 Python_practice_05-4.py
