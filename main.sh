@@ -1,1 +1,1 @@
-python3 Python_practice_06-2.py
+python3 Python_practice_07-1.py
